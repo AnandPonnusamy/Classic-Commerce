@@ -1,0 +1,14 @@
+                                        The Emporium
+******************************************************************************************
+Electronics Product(s)
+
+Product Name                            Price                         Colour
+Redmi Note 9 Pro                        Rs.13,650                     Aurora Blue
+
+Total Electronics Price : Rs.13650
+******************************************************************************************
+
+Total Price(before discount) = Rs.13650
+Coupon Applied : 5% Off upto Rs.1000
+Discount Offered : Rs.682.5
+Total Price(after discount) = Rs.12967.5

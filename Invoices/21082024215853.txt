@@ -1,0 +1,14 @@
+                                        The Emporium
+******************************************************************************************
+Sports and Gym Equipment(s)
+
+Product Name                            Price
+GM Cricket Bat                          Rs.1,970
+
+Total Sports and Gym Equipment Price : Rs.1970
+******************************************************************************************
+
+Total Price(before discount) = Rs.1970
+Coupon Applied : 10% Off upto Rs.750
+Discount Offered : Rs.197.0
+Total Price(after discount) = Rs.1773.0

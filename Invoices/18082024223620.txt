@@ -1,0 +1,14 @@
+                                        The Emporium
+******************************************************************************************
+Sports and Gym Equipment(s)
+
+Product Name                            Price
+GTS Leather Ball                        Rs.160
+
+Total Sports and Gym Equipment Price : Rs.160
+******************************************************************************************
+
+Total Price(before discount) = Rs.160
+Coupon Applied : 10% Off upto Rs.750
+Discount Offered : Rs.16.0
+Total Price(after discount) = Rs.144.0

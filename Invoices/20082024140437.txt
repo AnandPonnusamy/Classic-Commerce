@@ -1,0 +1,13 @@
+                                        The Emporium
+******************************************************************************************
+Appliance(s)
+
+Product Name                            Price
+Whirlpool Top Load                      Rs.14,990
+
+Total Appliances Price : Rs.14990
+******************************************************************************************
+Total Price(before discount) = Rs.14990
+Coupon Applied : 10% Off upto Rs.750
+Discount Offered : Rs.750
+Total Price(after discount) = Rs.14240

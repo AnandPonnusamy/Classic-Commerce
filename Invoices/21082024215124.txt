@@ -1,0 +1,14 @@
+                                        The Emporium
+******************************************************************************************
+Electronics Product(s)
+
+Product Name                            Price                         Colour
+OnePlus 8T 5G                           Rs.42,999                     Aquamarine Green
+
+Total Electronics Price : Rs.42999
+******************************************************************************************
+
+Total Price(before discount) = Rs.42999
+Coupon Applied : 10% Off upto Rs.750
+Discount Offered : Rs.750
+Total Price(after discount) = Rs.42249
